@@ -2,10 +2,10 @@
 
 This Repository contains all assignments, which are supposed to be completed for respective Milestones(in named folders), in-
 
-- #Mileston1
+- Milestone#1
 
-- #Milestone2
+- Milestone#2
 
-- #Milestone3
+- Milestone#3
 
-- #Milestone4
+- Milestone#4
